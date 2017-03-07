@@ -1,0 +1,27 @@
+{
+  "name": "wrike-webhook",
+  "version": "1.0.0",
+  "description": "Webhook middelware for wrike compatible with express/restify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famthegeek/wrike-webhook.git"
+  },
+  "keywords": [
+    "wrike",
+    "webhook",
+    "productivity",
+    "teamwork",
+    "express",
+    "restify"
+  ],
+  "author": "Fredrik Mundt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/famthegeek/wrike-webhook/issues"
+  },
+  "homepage": "https://github.com/famthegeek/wrike-webhook#readme"
+}
